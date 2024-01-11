@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.guava:guava:32.1.2-jre" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

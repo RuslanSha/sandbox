@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../java_for_testers/addressbook_web_tests" />
+        <option name="gradleHome" value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4" />
+        <option name="gradleJvm" value="zulu-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../java_for_testers/addressbook_web_tests" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$USER_HOME$/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4" />
+        <option name="gradleJvm" value="zulu-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
