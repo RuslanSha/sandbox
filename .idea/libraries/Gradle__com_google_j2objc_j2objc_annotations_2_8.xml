@@ -1,7 +1,8 @@
 <component name="libraryTable">
-  <library name="Gradle: com.google.j2objc:j2objc-annotations:2.8" external-system-id="GRADLE">
+  <library name="Gradle: com.google.j2objc:j2objc-annotations:2.8" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.google.j2objc" artifactId="j2objc-annotations" version="2.8" />
     <CLASSES>
-      <root url="jar://$USER_HOME$/.m2/repository/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

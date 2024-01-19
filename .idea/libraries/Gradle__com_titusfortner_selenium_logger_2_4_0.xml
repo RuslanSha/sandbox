@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="Gradle: com.titusfortner:selenium-logger:2.4.0" external-system-id="GRADLE">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.m2/repository/com/titusfortner/selenium-logger/2.4.0/selenium-logger-2.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/titusfortner/selenium-logger/2.4.0/selenium-logger-2.4.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

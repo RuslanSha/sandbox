@@ -2,7 +2,7 @@
   <library name="Gradle: net.bytebuddy:byte-buddy:1.14.5" type="java-imported" external-system-id="GRADLE">
     <properties groupId="net.bytebuddy" artifactId="byte-buddy" version="1.14.5" />
     <CLASSES>
-      <root url="jar://$USER_HOME$/.m2/repository/net/bytebuddy/byte-buddy/1.14.5/byte-buddy-1.14.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.14.5/byte-buddy-1.14.5.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
